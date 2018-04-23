@@ -62,7 +62,7 @@ blog_app/
 ## **DESCRIPTION OF PAGES IN BIT BLOG**
 
 
-1) Home.js - On the home page there are posts from all authors, which can be clicked on.
+1) **Home.js - On the home page there are posts from all authors, which can be clicked on.**
 
 
 
@@ -70,7 +70,7 @@ blog_app/
 
 
 
-2) PostDetails.js - Clicking on one of the posts on the home page goes to the page of all posts by an author.
+2) **PostDetails.js - Clicking on one of the posts on the home page goes to the page of all posts by an author.**
 
 
 
@@ -78,7 +78,7 @@ blog_app/
 
 
 
-3) Authors.js - On the page there is a list of all authors on the blog.
+3) **Authors.js - On the page there is a list of all authors on the blog.**
 
 
 
@@ -86,7 +86,7 @@ blog_app/
 
 
 
-4) AuthorDetails.js - Clicking on one of the authors goes to the page with more detailed information about one author.
+4) **AuthorDetails.js - Clicking on one of the authors goes to the page with more detailed information about one author.**
 
 
 
@@ -94,7 +94,7 @@ blog_app/
 
 
 
-5) About.js - A page that explains the blog in more details.
+5) **About.js - A page that explains the blog in more details.**
 
 
 
@@ -102,7 +102,7 @@ blog_app/
 
 
 
-6) NewPost.js - Posting page for new posts.
+6) **NewPost.js - Posting page for new posts.**
 
 
 
