@@ -1,12 +1,11 @@
-PROJECT TITLE
+## **PROJECT TITLE**
 
 BIT Blog (blog_app) application is a blogging platform-like application. You can read posts from other user or write your own posts. You can also filter posts by author, read more about authors etc.
 
 
 TECHNOLOGIES
 
-- React
-  The Javascript library for creating an application
+- React - The Javascript library for creating an application
 - Materialize
   Material Design is a design language that combines the classic principles of successful design along with innovation and technology.
 
