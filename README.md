@@ -1,16 +1,16 @@
-## **PROJECT TITLE**
+## **BIT Blog**
 
 BIT Blog (blog_app) application is a blogging platform-like application. You can read posts from other user or write your own posts. You can also filter posts by author, read more about authors etc.
 
 
-TECHNOLOGIES
+## **TECHNOLOGIES**
 
 - React - The Javascript library for creating an application
-- Materialize
-  Material Design is a design language that combines the classic principles of successful design along with innovation and technology.
+- Materialize - Material Design is a design language that combines the classic principles of successful design along with innovation and technology.
 
 
-STRUCTURE OF FOLDERS AND FILES
+
+## **STRUCTURE OF BIT BLOG**
 
 ```
 blog_app/
@@ -59,27 +59,38 @@ blog_app/
     logo.svg
 ```
 
-DESCRIPTION OF PAGES IN APPLICATION
+## **DESCRIPTION OF PAGES IN BIT BLOG**
+
 
 1) Home.js - On the home page there are posts from all authors, which can be clicked on.
 
+
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/home_page.png)
+
 
 2) PostDetails.js - Clicking on one of the posts on the home page goes to the page of all posts by an author.
 
+
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/one_author_posts.png)
+
 
 3) Authors.js - On the page there is a list of all authors on the blog.
 
+
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/authors_page.png)
+
 
 4) AuthorDetails.js - Clicking on one of the authors goes to the page with more detailed information about one author.
 
+
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/data_about_author.png)
+
 
 5) About.js - A page that explains the blog in more details.
 
+
 ![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/about_page.png)
+
 
 6) NewPost.js - Posting page for new posts.
 
