@@ -10,7 +10,7 @@ body {
 
 .center-align {
   padding: 32px 0;
-  font-size: 23px;
+  font-size: 32px;
   margin: 23px 0 10px 0;
 }
 
@@ -48,6 +48,10 @@ textarea {
   margin: 0;
 }
 
+.card-image {
+  margin-right: 137px;
+}
+
 .back-btn {
   margin-top: 23px;
   font-size: 23px;
@@ -76,5 +80,18 @@ textarea {
 
 .all-posts {
   font-size: 28px;
+}
+
+.content-links {
+  text-align: center;
+}
+
+.content-links h2 {
+  font-size: 28px;
+}
+
+.content-links h4 {
+  font-size: 28px;
+  margin-top: 37px;
 }
 

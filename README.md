@@ -68,43 +68,23 @@ blog_app/
 
 
 
-2) **PostDetails.js - Clicking on one of the posts on the home page goes to the page of all posts by an author.**
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/oneauthorposts.png)
 
 
 
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/one_author_posts.png)
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/allauthors.png)
 
 
 
-3) **Authors.js - On the page there is a list of all authors on the blog.**
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/oneauthor.png)
 
 
 
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/authors_page.png)
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/about.png)
 
 
 
-4) **AuthorDetails.js - Clicking on one of the authors goes to the page with more detailed information about one author.**
-
-
-
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/data_about_author.png)
-
-
-
-5) **About.js - A page that explains the blog in more details.**
-
-
-
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/about_page.png)
-
-
-
-6) **NewPost.js - Posting page for new posts.**
-
-
-
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/new_post_page.png)
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/post.png)
 
 
 

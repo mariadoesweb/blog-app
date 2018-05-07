@@ -5,7 +5,7 @@ import PropTypes from "prop-types"
 
 const PostContent = (props) => {
     return (
-        <div className="container center-align">
+        <div className="container content-links">
             <h2>{props.onePost.title}</h2>
             <Link to={`/Author${props.author.authorId}`}>{props.author.name}</Link>
             <p>{props.onePost.text}</p>

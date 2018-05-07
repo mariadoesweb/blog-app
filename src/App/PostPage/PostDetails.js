@@ -56,8 +56,10 @@ class PostDetails extends React.Component {
     render() {
         return (
             <React.Fragment>
+                <div className='container'>
                 <PostContent onePost={this.state.onePost} author={this.state.author} />
                 <PostLinks allPosts={this.filterPost()} />
+                </div>
             </React.Fragment>
         )
     }

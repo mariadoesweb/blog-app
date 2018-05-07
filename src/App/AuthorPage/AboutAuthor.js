@@ -7,7 +7,7 @@ const AboutAuthor = (props) => {
     return (
         <div className='container back-btn'>
             <BackButton/>
-            <h2 className='center-align'>Single oneAuthor</h2>
+            <h2 className='center-align one-author'>Single oneAuthor</h2>
             <div className="col s12 m7">
                 <div className="card horizontal row">
                     <div className='col s5'>
@@ -28,8 +28,8 @@ const AboutAuthor = (props) => {
                  <div className="col s12 m7">
                 <div className="card horizontal">
                         <div className="card-stacked">
-                            <div className="card-content">
-                                <h4>ADDRESS</h4>
+                            <div className="card-content main-information">
+                                <h5>ADDRESS</h5>
                                 <p>street: <span>{props.oneAuthor.street}</span><br/>
                                     city: <span>{props.oneAuthor.city}</span><br/>
                                     zipcode: <span>{props.oneAuthor.zipcode}</span>
@@ -45,8 +45,8 @@ const AboutAuthor = (props) => {
                 <div className="col s12 m7">
                 <div className="card horizontal">
                         <div className="card-stacked">
-                            <div className="card-content">
-                                <h4>Company</h4>
+                            <div className="card-content main-information">
+                                <h5>Company</h5>
                                 <p>name: <span>{props.oneAuthor.company}</span><br/>
                                    slogan: <span>{props.oneAuthor.slogan}</span><br/>
                                 </p>

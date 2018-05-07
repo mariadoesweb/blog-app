@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 const PostLinks = (props) => {
     return (
-        <div className='container'>
+        <div className='container content-links'>
             <ul className="collection with-header">
                 <li className="collection-header"><h4>3 more posts from same author</h4></li>
                 {props.allPosts.slice(0,3).map((post) => {
