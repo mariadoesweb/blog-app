@@ -8,8 +8,10 @@ body {
    border: 0;
 }
 
-h4.center-align {
+.center-align {
   padding: 32px 0;
+  font-size: 23px;
+  margin: 23px 0 10px 0;
 }
 
 .collection a.collection-item {
@@ -54,3 +56,25 @@ textarea {
 .save-btn:disabled {
   background-color: red;
 }
+
+.footer {
+  text-align: center;
+  background-color: #e4f2fd;
+  padding: 10px 0;
+  margin-top: 23px;
+}
+
+.author-list {
+  font-size: 20px;
+}
+
+.about-ourstory-headline {
+  text-align: center;
+  font-size: 23px;
+  margin-top: 39px;
+}
+
+.all-posts {
+  font-size: 28px;
+}
+

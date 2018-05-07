@@ -5,7 +5,7 @@ import PropTypes from "prop-types"
 const PostListItem = (props) => {
     return (
         <React.Fragment>
-            <li className="collection-header"><Link to={`posts${props.postId}`}><h4>{props.title}</h4></Link></li>
+            <li className="collection-header"><Link to={`posts${props.postId}`}><h5>{props.title}</h5></Link></li>
             <li className="collection-item">{props.text}</li>
         </React.Fragment>
     )

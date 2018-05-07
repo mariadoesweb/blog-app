@@ -59,14 +59,12 @@ blog_app/
     logo.svg
 ```
 
-## **DESCRIPTION OF PAGES IN BIT BLOG**
-
-
-1) **Home.js - On the home page there are posts from all authors, which can be clicked on.**
+## **SCREENSHOTS**
 
 
 
-![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/home_page.png)
+
+![alt text](https://raw.githubusercontent.com/mariaradovanovic/blog_app/master/images/allposts.png)
 
 
 

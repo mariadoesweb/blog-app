@@ -10,8 +10,8 @@ const PostsList = (props) => {
     );
 
     return (
-        <div className='container'>
-            <h2 className='center-align'>POSTS</h2>
+        <div className='container all-posts'>
+            <h4 className='center-align all-posts'>POSTS</h4>
             <ul className="collection with-header">
                 {posts}
             </ul>

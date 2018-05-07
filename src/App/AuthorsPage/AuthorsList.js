@@ -5,10 +5,10 @@ import PropTypes from "prop-types"
 const AuthorsList = (props) => {
     return (
         <div className='container'>
-            <h4 className='center-align'>AUTHORS ({props.authors.length})</h4>
+            <h5 className='center-align'>AUTHORS ({props.authors.length})</h5>
             <div className="collection">
                 {props.authors.map((author) => {
-                    return(<Link to={`/author${author.authorId}`} className="collection-item" key={author.authorId}><h4>{author.name}</h4></Link>)
+                    return(<Link to={`/author${author.authorId}`} className="collection-item" key={author.authorId}><h5 className='author-list'>{author.name}</h5></Link>)
                 })}
                 
             </div>

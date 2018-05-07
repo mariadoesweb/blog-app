@@ -14,8 +14,8 @@ const AboutAuthor = (props) => {
                         <img src="http://files.softicons.com/download/internet-icons/user-icons-by-2shi/png/256/user1.png" alt={props.oneAuthor.username}/>
                     </div>
                         <div className="card-stacked col s5 offset-s2">
-                            <div className="card-content">
-                                <h4>{props.oneAuthor.name}</h4>
+                            <div className="card-content main-information">
+                                <h5>{props.oneAuthor.name}</h5>
                                 <p>username: <span>{props.oneAuthor.username}</span><br/>
                                     email: <span>{props.oneAuthor.email}</span><br/>
                                     phone: <span>{props.oneAuthor.phone}</span>
