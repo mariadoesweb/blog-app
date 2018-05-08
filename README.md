@@ -1,5 +1,7 @@
 ## **BIT BLOG**
 
+Check out the project here: [Demo](https://mariaradovanovic.github.io/blog-app/)
+
 BIT Blog (blog_app) application is a blogging platform-like application. You can read posts from other user or write your own posts. You can also filter posts by author, read more about authors etc.
 
 
