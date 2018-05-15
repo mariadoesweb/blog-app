@@ -7,11 +7,8 @@ BIT Blog (blog_app) application is a blogging platform-like application. You can
 
 ### **TECHNOLOGIES**
 
-Languages: HTML5, CSS3, JavaScript (ES6)
+HTML5, CSS3, JavaScript (ES6), React, Materialize, Npm
 
-Framework: React, Materialize
-
-Package Manager: Npm
 
 
 
