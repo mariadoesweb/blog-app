@@ -15,55 +15,6 @@ Package Manager: Npm
 
 
 
-### **STRUCTURE OF BIT BLOG**
-
-```
-blog_app/
-  README.md
-  images/
-  package.json
-  public/
-    index.html
-    favicon.ico
-    manifest.json
-  src/
-    App/
-      AboutPage/
-        About.js
-      AuthorPage/
-        AboutAuthor.js
-        AuthorDetails.js
-      AuthorsPage/
-        Authors.js
-        AuthorsList.js
-      HomePage/
-        Home.js
-        PostListItem.js
-        PostsList.js
-      NewPostPage/
-        NewPost.js
-      Partials/
-        Footer.js
-        Header.js
-      PostPage/
-        PostContent.js
-        PostDetails.js
-        PostLinks.js
-      SharedComponents/
-        BackButton.js
-        ErrorComponent.js
-      App.js
-    Entites/
-      Author.js
-      Post.js
-    Services/
-      dataService.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
-```
-
 ### **SCREENSHOTS**
 
 
